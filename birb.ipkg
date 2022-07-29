@@ -1,0 +1,5 @@
+package birb
+
+depends = base, contrib
+
+modules = Birb, Birb.Build, Birb.Build.Parallel, Birb.Build.Process
